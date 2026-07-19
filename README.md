@@ -6,24 +6,20 @@ Currently focused on building real-world projects and strengthening core CS fund
 ## 🚀 Currently Learning
 - MERN Stack (MongoDB, Express, React, Node.js)
 - Data Structures & Algorithms (DSA)
-- Cloud computing and DevOps (later after MERN)
+- CyberSec
 
 ## 🛠️ Skills
 - HTML5
 - CSS3
 - JavaScript
 - React.js
-- mastering MERN currently
-
-## 🎯 Goals
-- Become proficient in MERN Stack development
-- Build strong problem-solving skills using DSA
-- Learn Cloud Computing fundamentals
-- Understand DevOps tools and workflows
-- Build scalable, real-world applications
-- Getting into Big Tech Firm
-
+- Node.js
+- Mongoose
+- Express.js
+- Networking
+- Linux
+- OWASP TOP 10
 ---
 
-📈 Learning in public. Building consistently. Improving every day.
+📈 Building consistently. Improving every day.
 
